@@ -1,0 +1,19 @@
+_fib -> _factorial !
+
+P21 : 약수들의 합, 친화수
+P22 : 문자열 -> 점수
+P23 : 약수, 약수의 합, 두 정수의 합
+P24 : k번째 순열 -- 피보나치
+P25 : Fibonacci
+P26 : Recurring decimal
+P27 : Primarity Test
+P28 : Recurrence relation
+P29 : ....
+P30 : Integer -> String -> calc -> Sum ..
+P31 : coins -> 2 Pound
+P32 : Permutation
+p33 : 분수 약분하기
+p34 : 각 자릿수의 팩토리얼
+p35 : 순환 소수의 갯수
+p36 : 대칭수(Palindrome)
+p37 : 
