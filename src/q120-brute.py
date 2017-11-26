@@ -25,8 +25,10 @@ def f(a): # sub main func
 
 
 def main():
+    startTime = os.times()[-1]
     ret = sum([f(a) for a in range(3, 1000 + 1)])
-
+    endTime = os.times()[-1]
+    print("total elapsed %.3f sec" % (endTime - startTime))
     print("Answer : %d" % ret)
 
 
